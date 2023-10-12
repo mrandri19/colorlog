@@ -1,5 +1,8 @@
 # Colorlog
 
+<img src='image.png' width='33%'>
+
+
 ## Building
 
 ```shell
